@@ -6,3 +6,4 @@ do
   let COUNTER=$COUNTER+1
 done
 # Adding a comment from new_branch
+# Another comment from develop branch
